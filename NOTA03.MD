@@ -12,7 +12,6 @@ La evidencia digital comprende todo dato o información con potencial valor prob
 
 Sin embargo, no toda información digital constituye evidencia de manera automática. Su valor probatorio dependerá de la valoración realizada por la autoridad competente o por los profesionales intervinientes en el proceso de investigación, quienes determinarán su relevancia, pertinencia y utilidad en relación con los hechos analizados.
 
----
 
 ## 1.2 Características de la evidencia digital
 
@@ -28,7 +27,6 @@ En ese sentido, resulta fundamental aplicar técnicas forenses adecuadas y mante
 - **Alterable o modificable:** puede ser editada, manipulada o transformada con relativa facilidad.
 - **Eliminable:** puede ser borrada de forma intencional o accidental, aunque en algunos casos sea posible su recuperación.
 
----
 
 ## 1.3 Naturaleza de la evidencia digital
 
@@ -36,7 +34,6 @@ La información digital puede ser creada, procesada, almacenada, modificada, tra
 
 Esta identificación permite reconocer sus características particulares y establecer si corresponde a información de naturaleza **persistente**, **volátil** o **en tránsito**, lo cual es clave para definir la técnica de adquisición, preservación y análisis más adecuada.
 
----
 
 ## 1.3.1 Naturaleza persistente
 
@@ -50,7 +47,6 @@ Corresponde a aquellos datos o información que permanecen almacenados de forma 
 - Repositorios persistentes de configuración y operación del sistema o de aplicaciones, como claves del Registro de Windows, archivos `plist` y bases de datos SQLite utilizadas por aplicaciones y sistemas.
 - Mensajes, correos y otros registros almacenados localmente, como correos descargados, bases de datos de mensajería, historiales de uso y respaldos o copias de seguridad preservadas para análisis posterior.
 
----
 
 ## 1.3.2 Naturaleza volátil
 
@@ -64,7 +60,6 @@ Corresponde a aquellos datos o información cuya existencia, integridad o dispon
 - Sesiones de usuario y contexto operativo activo, como usuarios conectados, sesiones iniciadas, variables de entorno y otra información dependiente del estado actual del sistema.
 - Memoria de aplicaciones y datos temporales de ejecución, como fragmentos de conversaciones, claves cargadas en memoria, contenido temporal de programas y otra información mantenida únicamente durante la operación del sistema o de una aplicación.
 
----
 
 ## 1.3.3 Naturaleza en tránsito
 
@@ -78,7 +73,6 @@ Corresponde a aquellos datos que se encuentran circulando a través de redes, ca
 - Consultas y respuestas de servicios de red, como solicitudes DNS, intercambios HTTP/HTTPS, tráfico de correo o autenticaciones transmitidas entre sistemas.
 - Registros derivados del monitoreo de red o de seguridad perimetral, como trazas de firewall, IDS/IPS, proxy, VPN, NDR o SIEM, que reflejan comunicaciones, intentos de conexión, transferencias o eventos detectados durante el tránsito de la información.
 
----
 
 ## Reflexión final
 
