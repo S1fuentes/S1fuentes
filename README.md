@@ -1,31 +1,40 @@
 <h1>Hi, I'm Jeison! <br/><a href="https://www.linkedin.com/in/jeisonsifuentes/">Digital Forensic Analyst</a> | <a href="https://github.com/S1fuentes">Offensive Security Enthusiast</a></h1>
 
-<h2>👨‍💻 Digital Forensics Projects:</h2>
+<h2>👨‍💻 Digital Forensics:</h2>
 
-<h3>Computer Forensics</h3>
+## Digital Forensics
 
-- <b>Evidence Handling & Preservation</b>
+- Definition of Digital Forensics
+- Purpose of Digital Forensics
+- Scope of Digital Forensics
+- Principles of Digital Forensics
 
-  - [Digital Evidence]
-  - [Characteristics of Digital Evidence]
-  - [Nature of Digital Evidence]
-    - [Volatile Evidence]
-    - [Persistent Evidence]
-    - [Data in Transit]
-      
-  - [Handling by Evidence Source]
-    - [Mobile Device Forensics]
-      - [Mobile Devices]
-      - [Smartwatch Devices]
-        
-    - [Computer Forensics](#)
-      - [Storage Devices (HDD, SATA SSD, PCIe SSD)]
-      - [Live Memory (RAM)]
-      - [Perimeter Security Logs]
+## Forensic Methodology
 
-### Related Notes
+- Identification
+- Preservation
+- Collection and Acquisition
+- Examination
+- Analysis
+- Documentation
+- Reporting and Presentation of Findings
 
-- [Note 01: Evidence Handling and Preservation](https://github.com/joshmadakor1/Algorithms-Practice)
+## Evidence Handling and Preservation
+
+- Digital Evidence
+- Characteristics of Digital Evidence
+- Classification of Digital Evidence
+  - Volatile Digital Evidence
+  - Persistent Digital Evidence
+  - Digital Evidence in Transit
+- Handling of Digital Evidence by Source
+  - Mobile Device Forensics
+    - Mobile Devices
+    - Smartwatch Devices
+  - Computer Forensics
+    - Storage Devices
+    - Live Memory Acquisition
+    - Perimeter Security Logs
     
 - <b>Forensic Acquisition</b>
   - TX1 (Digital Intelligence)
