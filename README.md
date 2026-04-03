@@ -18,7 +18,7 @@
   - Documentation
   - Reporting and Presentation of Findings
   
-  ## Evidence Handling and Preservation [EN](https://your-english-link.com) | [ES](https://your-spanish-link.com)
+  ## Evidence Handling and Preservation [EN](https://your-english-link.com) | [ES](https://github.com/S1fuentes/S1fuentes/blob/e37898af334d0623c41d249b69e74873ec59a449/NOTA03.MD)
   
   - Digital Evidence
   - Characteristics of Digital Evidence
