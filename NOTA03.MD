@@ -1,4 +1,4 @@
-<h1 align="center">📁 Preservación y Manejo de la Evidencia Digital</h1>
+<h1 align="center">📁 Preservación y manejo de la evidencia digital</h1>
 
 <p align="center">
   <em>Fundamentos esenciales para comprender la naturaleza, características y preservación de la evidencia digital en el ámbito forense.</em>
