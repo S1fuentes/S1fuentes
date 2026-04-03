@@ -5,7 +5,27 @@
 <h3>Computer Forensics</h3>
 
 - <b>Evidence Handling & Preservation</b>
-  - [XXXXXXXXXXXXXXXXXX](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Digital Evidence](#)
+  - [Characteristics of Digital Evidence](#)
+  - [Nature of Digital Evidence](#)
+    - [Volatile Evidence](#)
+    - [Persistent Evidence](#)
+    - [Data in Transit](#)
+      
+  - [Handling by Evidence Source](#)
+    - [Mobile Device Forensics](#)
+      - [Mobile Devices](#)
+      - [Smartwatch Devices](#)
+        
+    - [Computer Forensics](#)
+      - [Storage Devices (HDD, SATA SSD, PCIe SSD)](#)
+      - [Live Memory (RAM)](#)
+      - [Perimeter Security Logs](#)
+
+### Related Notes
+
+- [Note 01: Evidence Handling and Preservation](https://github.com/joshmadakor1/Algorithms-Practice)
     
 - <b>Forensic Acquisition</b>
   - TX1 (Digital Intelligence)
